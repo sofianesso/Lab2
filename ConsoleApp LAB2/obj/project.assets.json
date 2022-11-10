@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ClassLibrary LAB2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary LAB2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary LAB2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary LAB2/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary LAB2/ClassLibrary LAB2.csproj",
+      "msbuildProject": "../ClassLibrary LAB2/ClassLibrary LAB2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ClassLibrary LAB2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sof ITHS\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Sof ITHS\\Desktop\\LAB2\\ConsoleApp LAB2\\ConsoleApp LAB2.csproj",
+      "projectName": "ConsoleApp LAB2",
+      "projectPath": "C:\\Users\\Sof ITHS\\Desktop\\LAB2\\ConsoleApp LAB2\\ConsoleApp LAB2.csproj",
+      "packagesPath": "C:\\Users\\Sof ITHS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sof ITHS\\Desktop\\LAB2\\ConsoleApp LAB2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Sof ITHS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Sof ITHS\\Desktop\\LAB2\\ClassLibrary LAB2\\ClassLibrary LAB2.csproj": {
+              "projectPath": "C:\\Users\\Sof ITHS\\Desktop\\LAB2\\ClassLibrary LAB2\\ClassLibrary LAB2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

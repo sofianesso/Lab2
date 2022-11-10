@@ -1,0 +1,12 @@
+C:\Users\Sof ITHS\source\repos\ClassLibrary LAB2\ClassLibrary LAB2\obj\Debug\net6.0\ClassLibrary LAB2.csproj.AssemblyReference.cache
+C:\Users\Sof ITHS\source\repos\ClassLibrary LAB2\ClassLibrary LAB2\obj\Debug\net6.0\ClassLibrary LAB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sof ITHS\source\repos\ClassLibrary LAB2\ClassLibrary LAB2\obj\Debug\net6.0\ClassLibrary LAB2.AssemblyInfoInputs.cache
+C:\Users\Sof ITHS\source\repos\ClassLibrary LAB2\ClassLibrary LAB2\obj\Debug\net6.0\ClassLibrary LAB2.AssemblyInfo.cs
+C:\Users\Sof ITHS\source\repos\ClassLibrary LAB2\ClassLibrary LAB2\obj\Debug\net6.0\ClassLibrary LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Sof ITHS\source\repos\ClassLibrary LAB2\ClassLibrary LAB2\bin\Debug\net6.0\ClassLibrary LAB2.deps.json
+C:\Users\Sof ITHS\source\repos\ClassLibrary LAB2\ClassLibrary LAB2\bin\Debug\net6.0\ClassLibrary LAB2.dll
+C:\Users\Sof ITHS\source\repos\ClassLibrary LAB2\ClassLibrary LAB2\bin\Debug\net6.0\ClassLibrary LAB2.pdb
+C:\Users\Sof ITHS\source\repos\ClassLibrary LAB2\ClassLibrary LAB2\obj\Debug\net6.0\ClassLibrary LAB2.dll
+C:\Users\Sof ITHS\source\repos\ClassLibrary LAB2\ClassLibrary LAB2\obj\Debug\net6.0\refint\ClassLibrary LAB2.dll
+C:\Users\Sof ITHS\source\repos\ClassLibrary LAB2\ClassLibrary LAB2\obj\Debug\net6.0\ClassLibrary LAB2.pdb
+C:\Users\Sof ITHS\source\repos\ClassLibrary LAB2\ClassLibrary LAB2\obj\Debug\net6.0\ref\ClassLibrary LAB2.dll
