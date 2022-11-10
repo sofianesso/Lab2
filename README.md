@@ -1,5 +1,5 @@
 # Lab2
-In this lab, I will create a solution that contains a class library,
+Create a solution that contains a class library,
 and a console application. In the library, you must create classes for different geometrics
 figures as described below. Then you should use the console application for
 to create objects and make calculations
