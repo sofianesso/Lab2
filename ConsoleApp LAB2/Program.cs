@@ -19,14 +19,10 @@ namespace Lab2Konsol
 
                 averageArea += shapes[i].Area;
 
-                if (i != 0)
-                {
-                    averageArea /= 2;
-                }
             }
 
             Console.WriteLine("---");
-            Console.WriteLine("Average Area of Shapes: " + averageArea);
+            Console.WriteLine($"Average Area of Shapes: {averageArea / 20:0.0}");
         }
     }
 }
